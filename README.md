@@ -7,3 +7,7 @@ Welcome to the **Rotate Button Composable** repository! This repository contains
 ## What is the Rotate Button Composable?
 
 The Rotate Button Composable is a Jetpack Compose component that allows you to easily integrate a button with a rotating animation. When the button is pressed, it smoothly rotates, providing an engaging and interactive user experience. This component is designed to be simple to use, highly customizable, and a great addition to your Compose-based projects.
+
+Medium Article: [Rotate Button in Jetpack Compose][0]
+
+[0]: https://medium.com/@sanathsajeevakumara/exploring-the-rotate-button-composable-in-jetpack-compose-4b6705bee9cf
